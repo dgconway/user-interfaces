@@ -1,0 +1,4 @@
+/* adapted from https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow */
+.songCard {
+    box-shadow: 5px 5px 5px grey;
+}

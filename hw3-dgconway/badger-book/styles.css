@@ -1,0 +1,12 @@
+html {
+  margin: 1rem
+}
+
+label {
+  margin-left: 1rem;
+}
+
+.single-student {
+  outline: 4px solid darkgrey;
+  outline-offset: -2px;
+}

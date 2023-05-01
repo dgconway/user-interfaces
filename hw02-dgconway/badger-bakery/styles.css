@@ -1,0 +1,23 @@
+table, th, td {
+  border: 1px solid;
+}
+
+.large-text-wrap {
+  inline-size: 600px; 
+}
+
+.primary-button {
+background-color: darkred;
+color: white;
+padding: 5px;
+border-radius: 4px;
+filter: drop-shadow(4px 4px 2px black);
+}
+
+.secondary-button {
+  background-color: white;
+  color: darkred;
+  border: black;
+  filter: drop-shadow(4px 4px 2px black);
+  border-radius: 4px;
+}
